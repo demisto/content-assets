@@ -1,9 +1,11 @@
 ![Content logo](https://github.com/demisto/content/raw/8b642e30bf06e79ee8fa2b9a984dac3e27e394ba/xsoar_content_logo.png)
 
 # Cortex XSOAR Content Assets
-This repo holds Cortex XSOAR Content Documentation Assets. We store in this repo documentation media assets which are large and we want to keep seperate from our main Content repo: https://github.com/demisto/content. Our rule of thumb is to store media assets larger than 2MB in this repo. 
+This repo holds Cortex XSOAR Content Documentation Assets. We store in this repo documentation media assets which are large and we want to keep separate from our main Content repo: https://github.com/demisto/content. Our rule of thumb is to store media assets larger than 2MB in this repo. 
 
-**Note**: Media assets larger than 50MB should be stored using gitlfs. 
+**Note**: Media assets larger than 50MB should be stored using gitlfs.
+
+More info available at our [documentation docs](https://xsoar.pan.dev/docs/integrations/integration-docs).
 
 ## Contributing
 Contributions are welcome and appreciated. 
