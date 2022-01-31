@@ -1,3 +1,4 @@
 Assets/EmailCommunication/EmailCommunication_demo.mp4 filter=lfs diff=lfs merge=lfs -text
 Assets/xsoar.pan.dev/IAM__Full_Demo.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+Assets/ContentManagement/CI_CD_CONTENT_PACK_v2.mp4 filter=lfs diff=lfs merge=lfs -text
